@@ -206,6 +206,9 @@ app.post('/api/auth/logout', (req, res) => {
     res.clearCookie('loginToken')
     res.send('Loggedout..')
 })
+app.get('/**', (req, res) => {
+    res.sendFile(path.resolve('public/index.html'))
+})
 
 const port = 3030
 app.listen(port, () =>
