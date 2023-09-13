@@ -1,0 +1,104 @@
+[
+  {
+    "severity": null,
+    "createdAt": 1694608808969,
+    "_id": "u5Az6"
+  },
+  {
+    "severity": null,
+    "createdAt": 1694608649273,
+    "_id": "AvB0S"
+  },
+  {
+    "title": "mkmlk",
+    "severity": 87,
+    "description": "lmjmlk",
+    "createdAt": 1694583515313,
+    "owner": {
+      "_id": "vU8d6",
+      "username": "lili",
+      "score": 100
+    },
+    "_id": "kBgDs"
+  },
+  {
+    "_id": "abc123",
+    "title": "Cannot save a Bug",
+    "severity": 123,
+    "description": "problem when clicking Save",
+    "labels": [
+      "not-critical",
+      "passed-CR",
+      "dev-branch"
+    ],
+    "createdAt": 1694540831060,
+    "owner": {
+      "_id": "vU8d6",
+      "username": "lili",
+      "score": 100
+    }
+  },
+  {
+    "_id": "abc124",
+    "title": "Cannot save a Bug",
+    "severity": 1,
+    "description": "problem when clicking Save",
+    "labels": [
+      "critical",
+      "need-CR",
+      "lorem"
+    ],
+    "createdAt": 1694544512836,
+    "owner": {
+      "_id": "vU8d6",
+      "username": "lili",
+      "score": 100
+    }
+  },
+  {
+    "_id": "Z0kTy",
+    "title": "This bug is amizing",
+    "severity": 0,
+    "description": "problem when someone clicking Save",
+    "labels": [
+      "happy",
+      "no need-CR",
+      "lorem inspum"
+    ],
+    "createdAt": 1694544556575,
+    "owner": {
+      "_id": "vU8d6",
+      "username": "lili",
+      "score": 100
+    }
+  },
+  {
+    "_id": "abc125",
+    "title": "Cannot save a Bug",
+    "severity": 6,
+    "description": "problem when clicking Save",
+    "labels": [
+      "not-critical",
+      "need-CR",
+      "access"
+    ],
+    "createdAt": 1694530107316,
+    "owner": {
+      "_id": "vU8d6",
+      "username": "lili",
+      "score": 100
+    }
+  },
+  {
+    "_id": "5w0GD",
+    "title": "ansin",
+    "severity": 4,
+    "description": "lorerm lore masd",
+    "createdAt": 1694540238459,
+    "owner": {
+      "_id": "vU8d6",
+      "username": "lili",
+      "score": 100
+    }
+  }
+]

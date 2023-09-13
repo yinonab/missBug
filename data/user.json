@@ -1,0 +1,63 @@
+[
+  {
+    "_id": "u100",
+    "username": "admin",
+    "fullname": "Master Adminov",
+    "password": "admin",
+    "isAdmin": true,
+    "score": 100
+  },
+  {
+    "_id": "u101",
+    "fullname": "Puki Ja",
+    "username": "puki",
+    "password": "secret1",
+    "score": 100
+  },
+  {
+    "_id": "u102",
+    "fullname": "Muki Ba",
+    "username": "muki",
+    "password": "secret2",
+    "score": 100
+  },
+  {
+    "_id": "qNxjv",
+    "fullname": "Popo Pa",
+    "username": "popo",
+    "password": "popo"
+  },
+  {
+    "_id": "vU8d6",
+    "username": "lili",
+    "fullname": "Lili Lo",
+    "password": "lili",
+    "score": 1000
+  },
+  {
+    "_id": "Dafwd",
+    "score": 1000
+  },
+  {
+    "_id": "livbm",
+    "isAdmin": true,
+    "fullname": "yinon ab",
+    "username": "fsdfsd",
+    "password": "123456",
+    "score": 1000
+  },
+  {
+    "_id": "dLjvJ",
+    "fullname": "oz hodeda",
+    "username": "trtr",
+    "password": "123456",
+    "score": 1000
+  },
+  {
+    "_id": "UmA2t",
+    "fullname": "dasd awsedadasd",
+    "username": "dasdasdasd",
+    "password": "123456",
+    "score": 1000
+  }
+]

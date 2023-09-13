@@ -1,0 +1,78 @@
+.bug-filter {
+    background-color: #EEECEC;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.bug-filter h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.bug-filter form {
+    display: flex;
+    flex-direction: column;
+}
+.bug-filter label {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.bug-filter input {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.bug-filter button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.bug-filter button:hover {
+    background-color: #0056B3;
+}
+.pagination-button {
+    background-color: #007BFF; /* Blue background color */
+    color: #fff; /* White text color */
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  .pagination-button:hover{
+    background-color: #0056B3;
+  }
+  /* Styles for the "Cancel pagination" button */
+  .cancel-button {
+    background-color: #FE0019; /* Red background color */
+    color: #fff; /* White text color */
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  .cancel-button:hover{
+    background-color: #A60011;
+  }
+  .btn-paging-container{
+    text-align: center;
+  }
+  .add-btn{
+    background-color: #007BFF;
+    /* Blue background color */
+    color: #fff;
+    /* White text color */
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.add-btn:hover {
+    background-color: #0056B3;
+}
