@@ -37,8 +37,8 @@ function getById(bugId) {
     return axios.get(BASE_URL + bugId).then(res => res.data)
 }
 function getUserBugs(userId) {
-    console.log('userId:', userId)
-    return axios.get(BASE_URL + userId).then(res => res.data)
+    console.log('userId:', BASE_URL +'user/'+ userId._id)
+    return axios.get(BASE_URL +'user/'+ userId).then(res => res.data)
 }
 
 function remove(bugId) {
