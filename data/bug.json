@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "title": "dasd",
+    "severity": 444,
+    "description": "xvxcv",
+    "createdAt": 1694636317150,
+    "_id": "UNlUr",
+    "owner": {
+      "_id": "u100",
+      "fullname": "Master Adminov",
+      "score": 100,
+      "isAdmin": true
+    }
+  }
+]
